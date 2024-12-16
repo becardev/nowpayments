@@ -1,4 +1,4 @@
-# Shopia NowPayments for Filament
+# Shopia NowPayments
 
 A Laravel package for NowPayments API integration with sandbox support.
 
